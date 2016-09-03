@@ -50,3 +50,4 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'devise'
 gem "paperclip", "~> 5.0.0"
+gem 'masonry-rails'
